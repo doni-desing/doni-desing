@@ -40,16 +40,6 @@ I also completed **CodePath Technical Interview Prep**, strengthening my knowled
 - 🧠 CodePath: Technical Interview Preparation  
 - 🎯 Goal: Internship / Junior role (ML / Data Science / Android)
 
----
-
-## 🐍 GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/doni-desing/doni-desing/output/snake.svg" alt="snake" />
-</p>
-
----
-
 ## 🛠 Technologies & Skills
 
 <div align="left">
